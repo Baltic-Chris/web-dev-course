@@ -1,0 +1,9 @@
+a[title] {
+    color: red;
+}
+p::first-line {
+    color: red;
+}
+h1, .special {
+    color: green;
+}

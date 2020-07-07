@@ -1,0 +1,17 @@
+.Link1 {
+    color: blue;
+}
+.Link2 {
+    color: red
+}
+.Link3 {
+    color: green;
+}
+a {
+    
+}
+p.intro::first-letter {
+    color: #ff0000;
+    font-size: 200%;
+  } 
+body {background-color: yellow;}
