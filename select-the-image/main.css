@@ -1,0 +1,27 @@
+  main {
+    margin: 30px;
+  }
+  
+  img {
+    height: 100px;
+  }
+
+  h3 {
+    color: blue;
+  }
+
+  .List {
+    color: red;
+  }
+  
+  h3 + img {
+    border: red solid 1px;
+  }
+
+  a[target=blank] {
+    background-color: yellow;
+  }
+
+  #Task5 {
+    color: #f5ef42;
+  }
